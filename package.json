@@ -1,0 +1,8 @@
+{
+  "name": "NodeHeroku",
+  "description": "Bootstrap application for Heroku Platform",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}

@@ -1,2 +1,2 @@
 # NodeHeroku
-BootStrap Node application to load HTML 
+Deploy your node.js to load static html
